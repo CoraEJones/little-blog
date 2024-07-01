@@ -1,6 +1,6 @@
 title: My Blog
 description: 这是我的个人博客。
-theme: minima
+remote_theme: daattali/beautiful-jekyll
 markdown: kramdown
 kramdown:
   math_engine: mathjax
